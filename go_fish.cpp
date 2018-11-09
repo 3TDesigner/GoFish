@@ -1,5 +1,4 @@
-// FILE: card_demo.cpp
-// This is a small demonstration program showing how the Card and Deck classes are used.
+//Made by Tanitoluwa Adebowale and Nathan Stodola
 #include <iostream>    // Provides cout and cin
 #include <fstream>
 #include <cstdlib>     // Provides EXIT_SUCCESS
@@ -8,6 +7,7 @@
 #include "deck.h"
 
 using namespace std;
+
 
 
 // PROTOTYPES for functions used by this demonstration program:

@@ -1,3 +1,5 @@
+//Made by Tanitoluwa Adebowale and Nathan Stodola
+
 #include "card.h"
 #include <string>
 using namespace std;

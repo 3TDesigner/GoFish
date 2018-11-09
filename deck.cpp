@@ -1,3 +1,5 @@
+//Made by Tanitoluwa Adebowale and Nathan Stodola
+
 #include "deck.h"
 #include "card.h"
 #include <string>
